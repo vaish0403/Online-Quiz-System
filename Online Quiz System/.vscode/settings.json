@@ -1,8 +1,0 @@
-{
-    "files.exclude": {
-        "**/.js": true
-    },
-    "files.associations": {
-        "*.js": "javascriptreact"
-    }
-}
