@@ -1,0 +1,23 @@
+.header-main-navbar {
+    background-color: #cce6ff;
+}
+
+.header-main-heading p {
+    font-size: 40px;
+    font-weight: bolder;
+    color: #000066;
+    /*border: 2px solid black;
+    border-radius: 25px;*/
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 4px 4px 4px white;
+    padding: 10px;
+}
+
+.linkText {
+    color: #707070;
+}
+
+.linkText:hover {
+    color: #a6a6a6;
+    text-decoration: none;
+}

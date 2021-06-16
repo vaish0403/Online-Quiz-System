@@ -1,0 +1,27 @@
+.display-3 {
+    color: #000066;
+    align-items: center;
+    margin-bottom: 38px;
+}
+
+.link-text {
+    color: #000066;
+    font-weight: bolder;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+
+.link-text:hover {
+    color: #ff8533;
+    font-weight: bolder;
+    font-size: 16px;
+    margin-top: 15px;
+    letter-spacing: 2px;
+}
+
+.formLogin {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 50px;
+    padding: 20px;
+    width: 50%;
+}
