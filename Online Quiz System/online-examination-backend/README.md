@@ -3,7 +3,7 @@
 ## Prerequisites
 
 * Install Node js from [Node.js](http://nodejs.org/) (with NPM).
-* Install XAMP or WAMP which can be used to run phpMyAdmin for MySQL DB.
+* Install XAMP or WAMP which can be used to run phpMyAdmin for MySQL DB
 
 ## Installation
 
@@ -24,4 +24,3 @@
 * Navigate to the phpMyAdmin and look for the database called `examination_app`.
 * If the databse endpoint fails, check your phpMyAdmin config in the `.env` file or follow the below steps.
 * If fails, create a db called `examination_app` in the phpMyAdmin. Import the file `examination_app.sql` located at the root of the repository in a folder called `database`.
-
